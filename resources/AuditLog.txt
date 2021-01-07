@@ -1,0 +1,14 @@
+[06.02.2020 00:19] 1 Configuration Change mayab /127.0.0.1 iliya Operation is successful.
+[06.02.2020 00:30] 0 Configuration Change mayab /127.0.0.1 iliya Added rights.
+[06.02.2020 00:30] 0 Configuration Change mayab /127.0.0.1 iliya Operation is successful.
+[06.02.2020 00:32] 0 Configuration Change mayab /127.0.0.1 iliya Added rights.
+[06.02.2020 00:32] 0 Configuration Change mayab /127.0.0.1 iliya Operation is successful.
+[06.02.2020 00:33] 1 Configuration Change iliya /127.0.0.1 mayab Removed rights.
+[06.02.2020 00:33] 1 Configuration Change iliya /127.0.0.1 mayab Operation is successful.
+[06.02.2020 11:51] Failed Login maya /127.0.0.1[06.02.2020 15:30] Failed Login maya /127.0.0.1[06.02.2020 15:32] Failed Login maya /127.0.0.1[06.02.2020 15:33] Failed Login maya /127.0.0.1[06.02.2020 15:34] Failed Login maya /127.0.0.1[07.02.2020 12:18] 0 Configuration Change maya /127.0.0.1 gabi Added rights.
+[07.02.2020 12:18] 0 Configuration Change maya /127.0.0.1 gabi Operation is successful.
+[07.02.2020 12:19] 1 Configuration Change maya /127.0.0.1 maya Removed rights.
+[07.02.2020 12:19] 1 Configuration Change maya /127.0.0.1 maya Operation is successful.
+[07.02.2020 12:23] 2 Configuration Change maya /127.0.0.1 gabi Removed rights.
+[07.02.2020 12:23] 2 Configuration Change maya /127.0.0.1 gabi Operation failed.
+[07.02.2020 12:27] Failed Login maya /127.0.0.1[07.02.2020 12:27] Failed Login maya /127.0.0.1[07.02.2020 12:27] Failed Login maya /127.0.0.1[07.02.2020 12:27] Failed Login maya /127.0.0.1[07.02.2020 12:28] Failed Login maya /127.0.0.1
